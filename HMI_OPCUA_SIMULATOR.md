@@ -30,3 +30,10 @@ For example, the following nodes are exposed:
 - Writable: `ns=3;s="HMI_IN"."Header"."StartReq"`
 
 Press `Ctrl+C` to stop the server.
+
+## Kepware Server alternative
+
+For an independent industrial OPC server instead of the Python simulator, see
+[`KEPWARE_SERVER_SETUP.md`](KEPWARE_SERVER_SETUP.md). It documents the local
+KEPServerEX installation and the parameterized import script at
+`tools/Configure-KepwareSimulator.ps1`.
