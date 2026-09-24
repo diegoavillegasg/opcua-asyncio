@@ -1,0 +1,127 @@
+1	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"	DataBlocksGlobal/HMI_IN/Cell	Cell		Opfct_In_Cell	2:55:46.565 PM	2:55:46.565 PM	Good
+2	PLC@192.168.1.1	ns=3;s="HMI_IN"."Fault"	DataBlocksGlobal/HMI_IN/Fault	Fault		Opfct_In_Faults	2:55:46.566 PM	2:55:46.566 PM	Good
+3	PLC@192.168.1.1	ns=3;s="HMI_IN"."Gen"	DataBlocksGlobal/HMI_IN/Gen	Gen		Opfct_In_Gen	2:55:46.566 PM	2:55:46.566 PM	Good
+4	PLC@192.168.1.1	ns=3;s="HMI_IN"."Header"	DataBlocksGlobal/HMI_IN/Header	Header		Opfct_In_Header	2:55:46.567 PM	2:55:46.567 PM	Good
+5	PLC@192.168.1.1	ns=3;s="HMI_IN"."Prod"	DataBlocksGlobal/HMI_IN/Prod	Prod		Opfct_In_Prod	2:55:46.568 PM	2:55:46.568 PM	Good
+6	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"	DataBlocksGlobal/HMI_IN/Recipe_Sel	Recipe_Sel		Opfct_In_Rcp_Sel	2:55:46.570 PM	2:55:46.570 PM	Good
+7	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."EmptyReq_All"	HMI_IN/Cell/EmptyReq_All	EmptyReq_All	false	Boolean	2:55:46.571 PM	2:55:46.571 PM	Good
+8	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."EmptyReq_L1"	HMI_IN/Cell/EmptyReq_L1	EmptyReq_L1	false	Boolean	2:55:46.571 PM	2:55:46.571 PM	Good
+9	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."EmptyReq_L2"	HMI_IN/Cell/EmptyReq_L2	EmptyReq_L2	false	Boolean	2:55:46.571 PM	2:55:46.571 PM	Good
+10	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."EmptyReq_L3"	HMI_IN/Cell/EmptyReq_L3	EmptyReq_L3	false	Boolean	2:55:46.571 PM	2:55:46.571 PM	Good
+11	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."EmptyReq_L4"	HMI_IN/Cell/EmptyReq_L4	EmptyReq_L4	false	Boolean	2:55:46.572 PM	2:55:46.572 PM	Good
+12	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."EmptyReq_L5"	HMI_IN/Cell/EmptyReq_L5	EmptyReq_L5	false	Boolean	2:55:46.572 PM	2:55:46.572 PM	Good
+13	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."EmptyReq_L6"	HMI_IN/Cell/EmptyReq_L6	EmptyReq_L6	false	Boolean	2:55:46.572 PM	2:55:46.572 PM	Good
+14	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."Tray1 _Removed"	HMI_IN/Cell/Tray1 _Removed	Tray1 _Removed	false	Boolean	2:55:46.572 PM	2:55:46.572 PM	Good
+15	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."Tray2 _Removed"	HMI_IN/Cell/Tray2 _Removed	Tray2 _Removed	false	Boolean	2:55:46.573 PM	2:55:46.573 PM	Good
+16	PLC@192.168.1.1	ns=3;s="HMI_IN"."Cell"."Tray3 _Removed"	HMI_IN/Cell/Tray3 _Removed	Tray3 _Removed	false	Boolean	2:55:46.573 PM	2:55:46.573 PM	Good
+17	PLC@192.168.1.1	ns=3;s="HMI_IN"."Fault"."spare"	HMI_IN/Fault/spare	spare	false	Boolean	2:55:46.573 PM	2:55:46.573 PM	Good
+18	PLC@192.168.1.1	ns=3;s="HMI_IN"."Gen"."Life_Bit"	HMI_IN/Gen/Life_Bit	Life_Bit	true	Boolean	2:55:46.573 PM	2:55:46.573 PM	Good
+19	PLC@192.168.1.1	ns=3;s="HMI_IN"."Header"."PauseReq"	HMI_IN/Header/PauseReq	PauseReq	false	Boolean	2:55:46.574 PM	2:55:46.574 PM	Good
+20	PLC@192.168.1.1	ns=3;s="HMI_IN"."Header"."StartReq"	HMI_IN/Header/StartReq	StartReq	false	Boolean	2:55:46.574 PM	2:55:46.574 PM	Good
+21	PLC@192.168.1.1	ns=3;s="HMI_IN"."Header"."StopReq"	HMI_IN/Header/StopReq	StopReq	false	Boolean	2:55:46.574 PM	2:55:46.574 PM	Good
+22	PLC@192.168.1.1	ns=3;s="HMI_IN"."Prod"."spare"	HMI_IN/Prod/spare	spare	false	Boolean	2:55:46.574 PM	2:55:46.574 PM	Good
+23	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."NewRecipeSelected"	HMI_IN/Recipe_Sel/NewRecipeSelected	NewRecipeSelected	false	Boolean	2:55:46.574 PM	2:55:46.574 PM	Good
+24	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"	HMI_IN/Recipe_Sel/RCP_Data	RCP_Data		Recipe_Data	2:55:46.577 PM	2:55:46.577 PM	Good
+25	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."AmountToProduce"	Recipe_Sel/RCP_Data/AmountToProduce	AmountToProduce	0	Int16	2:55:46.578 PM	2:55:46.578 PM	Good
+26	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Liner_On"	Recipe_Sel/RCP_Data/Liner_On	Liner_On	false	Boolean	2:55:46.578 PM	2:55:46.578 PM	Good
+27	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"	Recipe_Sel/RCP_Data/Mod1	Mod1		Recipe_Module	2:55:46.579 PM	2:55:46.579 PM	Good
+28	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"	Recipe_Sel/RCP_Data/Mod2	Mod2		Recipe_Module	2:55:46.581 PM	2:55:46.581 PM	Good
+29	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Tray_Model"	Recipe_Sel/RCP_Data/Tray_Model	Tray_Model	0	Int16	2:55:46.582 PM	2:55:46.582 PM	Good
+30	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"	RCP_Data/Mod1/L1	L1		Recipe_Line	2:55:46.583 PM	2:55:46.583 PM	Good
+31	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"	RCP_Data/Mod1/L2	L2		Recipe_Line	2:55:46.584 PM	2:55:46.584 PM	Good
+32	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"	RCP_Data/Mod1/L3	L3		Recipe_Line	2:55:46.606 PM	2:55:46.606 PM	Good
+33	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."PickOrder"	RCP_Data/Mod1/PickOrder	PickOrder	{0,0,0}	Int16	2:55:46.614 PM	2:55:46.614 PM	Good
+34	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"	RCP_Data/Mod2/L1	L1		Recipe_Line	2:55:46.620 PM	2:55:46.620 PM	Good
+35	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"	RCP_Data/Mod2/L2	L2		Recipe_Line	2:55:46.624 PM	2:55:46.624 PM	Good
+36	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"	RCP_Data/Mod2/L3	L3		Recipe_Line	2:55:46.625 PM	2:55:46.625 PM	Good
+37	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."PickOrder"	RCP_Data/Mod2/PickOrder	PickOrder	{0,0,0}	Int16	2:55:46.626 PM	2:55:46.626 PM	Good
+38	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Amount"	Mod1/L1/Amount	Amount	0	Int16	2:55:46.626 PM	2:55:46.626 PM	Good
+39	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."DropPos"	Mod1/L1/DropPos	DropPos		Recipe_DropPos	2:55:46.627 PM	2:55:46.627 PM	Good
+40	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."ProductID"	Mod1/L1/ProductID	ProductID		String	2:55:46.630 PM	2:55:46.630 PM	Good
+41	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Shake_Power"	Mod1/L1/Shake_Power	Shake_Power	0	Int16	2:55:46.631 PM	2:55:46.631 PM	Good
+42	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Shake_Time"	Mod1/L1/Shake_Time	Shake_Time	0	Int16	2:55:46.631 PM	2:55:46.631 PM	Good
+43	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Size"	Mod1/L1/Size	Size	0	Int16	2:55:46.633 PM	2:55:46.633 PM	Good
+44	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Speed"	Mod1/L1/Speed	Speed	0	Int16	2:55:46.634 PM	2:55:46.634 PM	Good
+45	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Thikness"	Mod1/L1/Thikness	Thikness	0	Int16	2:55:46.636 PM	2:55:46.636 PM	Good
+46	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Vacuum_Power"	Mod1/L1/Vacuum_Power	Vacuum_Power	0	Int16	2:55:46.639 PM	2:55:46.639 PM	Good
+47	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."Weight"	Mod1/L1/Weight	Weight	0	Int16	2:55:46.640 PM	2:55:46.640 PM	Good
+48	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Amount"	Mod1/L2/Amount	Amount	0	Int16	2:55:46.640 PM	2:55:46.640 PM	Good
+49	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."DropPos"	Mod1/L2/DropPos	DropPos		Recipe_DropPos	2:55:46.641 PM	2:55:46.641 PM	Good
+50	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."ProductID"	Mod1/L2/ProductID	ProductID		String	2:55:46.641 PM	2:55:46.641 PM	Good
+51	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Shake_Power"	Mod1/L2/Shake_Power	Shake_Power	0	Int16	2:55:46.641 PM	2:55:46.641 PM	Good
+52	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Shake_Time"	Mod1/L2/Shake_Time	Shake_Time	0	Int16	2:55:46.642 PM	2:55:46.642 PM	Good
+53	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Size"	Mod1/L2/Size	Size	0	Int16	2:55:46.642 PM	2:55:46.642 PM	Good
+54	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Speed"	Mod1/L2/Speed	Speed	0	Int16	2:55:46.642 PM	2:55:46.642 PM	Good
+55	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Thikness"	Mod1/L2/Thikness	Thikness	0	Int16	2:55:46.642 PM	2:55:46.642 PM	Good
+56	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Vacuum_Power"	Mod1/L2/Vacuum_Power	Vacuum_Power	0	Int16	2:55:46.642 PM	2:55:46.642 PM	Good
+57	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."Weight"	Mod1/L2/Weight	Weight	0	Int16	2:55:46.643 PM	2:55:46.643 PM	Good
+58	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Amount"	Mod1/L3/Amount	Amount	0	Int16	2:55:46.643 PM	2:55:46.643 PM	Good
+59	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."DropPos"	Mod1/L3/DropPos	DropPos		Recipe_DropPos	2:55:46.644 PM	2:55:46.644 PM	Good
+60	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."ProductID"	Mod1/L3/ProductID	ProductID		String	2:55:46.644 PM	2:55:46.644 PM	Good
+61	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Shake_Power"	Mod1/L3/Shake_Power	Shake_Power	0	Int16	2:55:46.644 PM	2:55:46.644 PM	Good
+62	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Shake_Time"	Mod1/L3/Shake_Time	Shake_Time	0	Int16	2:55:46.644 PM	2:55:46.644 PM	Good
+63	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Size"	Mod1/L3/Size	Size	0	Int16	2:55:46.645 PM	2:55:46.645 PM	Good
+64	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Speed"	Mod1/L3/Speed	Speed	0	Int16	2:55:46.645 PM	2:55:46.645 PM	Good
+65	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Thikness"	Mod1/L3/Thikness	Thikness	0	Int16	2:55:46.645 PM	2:55:46.645 PM	Good
+66	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Vacuum_Power"	Mod1/L3/Vacuum_Power	Vacuum_Power	0	Int16	2:55:46.645 PM	2:55:46.645 PM	Good
+67	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."Weight"	Mod1/L3/Weight	Weight	0	Int16	2:55:46.646 PM	2:55:46.646 PM	Good
+68	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."PickOrder"[0]	Mod1/PickOrder/0	0	0	Int16	2:55:46.646 PM	2:55:46.646 PM	Good
+69	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."PickOrder"[1]	Mod1/PickOrder/1	1	0	Int16	2:55:46.646 PM	2:55:46.646 PM	Good
+70	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."PickOrder"[2]	Mod1/PickOrder/2	2	0	Int16	2:55:46.646 PM	2:55:46.646 PM	Good
+71	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Amount"	Mod2/L1/Amount	Amount	0	Int16	2:55:46.646 PM	2:55:46.646 PM	Good
+72	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."DropPos"	Mod2/L1/DropPos	DropPos		Recipe_DropPos	2:55:46.647 PM	2:55:46.647 PM	Good
+73	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."ProductID"	Mod2/L1/ProductID	ProductID		String	2:55:46.648 PM	2:55:46.648 PM	Good
+74	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Shake_Power"	Mod2/L1/Shake_Power	Shake_Power	0	Int16	2:55:46.648 PM	2:55:46.648 PM	Good
+75	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Shake_Time"	Mod2/L1/Shake_Time	Shake_Time	0	Int16	2:55:46.648 PM	2:55:46.648 PM	Good
+76	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Size"	Mod2/L1/Size	Size	0	Int16	2:55:46.648 PM	2:55:46.648 PM	Good
+77	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Speed"	Mod2/L1/Speed	Speed	0	Int16	2:55:46.649 PM	2:55:46.649 PM	Good
+78	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Thikness"	Mod2/L1/Thikness	Thikness	0	Int16	2:55:46.649 PM	2:55:46.649 PM	Good
+79	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Vacuum_Power"	Mod2/L1/Vacuum_Power	Vacuum_Power	0	Int16	2:55:46.649 PM	2:55:46.649 PM	Good
+80	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."Weight"	Mod2/L1/Weight	Weight	0	Int16	2:55:46.649 PM	2:55:46.649 PM	Good
+81	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Amount"	Mod2/L2/Amount	Amount	0	Int16	2:55:46.650 PM	2:55:46.650 PM	Good
+82	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."DropPos"	Mod2/L2/DropPos	DropPos		Recipe_DropPos	2:55:46.650 PM	2:55:46.650 PM	Good
+83	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."ProductID"	Mod2/L2/ProductID	ProductID		String	2:55:46.651 PM	2:55:46.651 PM	Good
+84	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Shake_Power"	Mod2/L2/Shake_Power	Shake_Power	0	Int16	2:55:46.651 PM	2:55:46.651 PM	Good
+85	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Shake_Time"	Mod2/L2/Shake_Time	Shake_Time	0	Int16	2:55:46.651 PM	2:55:46.651 PM	Good
+86	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Size"	Mod2/L2/Size	Size	0	Int16	2:55:46.652 PM	2:55:46.652 PM	Good
+87	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Speed"	Mod2/L2/Speed	Speed	0	Int16	2:55:46.652 PM	2:55:46.652 PM	Good
+88	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Thikness"	Mod2/L2/Thikness	Thikness	0	Int16	2:55:46.652 PM	2:55:46.652 PM	Good
+89	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Vacuum_Power"	Mod2/L2/Vacuum_Power	Vacuum_Power	0	Int16	2:55:46.652 PM	2:55:46.652 PM	Good
+90	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."Weight"	Mod2/L2/Weight	Weight	0	Int16	2:55:46.652 PM	2:55:46.652 PM	Good
+91	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Amount"	Mod2/L3/Amount	Amount	0	Int16	2:55:46.653 PM	2:55:46.653 PM	Good
+92	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."DropPos"	Mod2/L3/DropPos	DropPos		Recipe_DropPos	2:55:46.653 PM	2:55:46.653 PM	Good
+93	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."ProductID"	Mod2/L3/ProductID	ProductID		String	2:55:46.654 PM	2:55:46.654 PM	Good
+94	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Shake_Power"	Mod2/L3/Shake_Power	Shake_Power	0	Int16	2:55:46.654 PM	2:55:46.654 PM	Good
+95	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Shake_Time"	Mod2/L3/Shake_Time	Shake_Time	0	Int16	2:55:46.654 PM	2:55:46.654 PM	Good
+96	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Size"	Mod2/L3/Size	Size	0	Int16	2:55:46.655 PM	2:55:46.655 PM	Good
+97	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Speed"	Mod2/L3/Speed	Speed	0	Int16	2:55:46.655 PM	2:55:46.655 PM	Good
+98	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Thikness"	Mod2/L3/Thikness	Thikness	0	Int16	2:55:46.655 PM	2:55:46.655 PM	Good
+99	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Vacuum_Power"	Mod2/L3/Vacuum_Power	Vacuum_Power	0	Int16	2:55:46.655 PM	2:55:46.655 PM	Good
+100	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."Weight"	Mod2/L3/Weight	Weight	0	Int16	2:55:46.656 PM	2:55:46.656 PM	Good
+101	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."PickOrder"[0]	Mod2/PickOrder/0	0	0	Int16	2:55:46.656 PM	2:55:46.656 PM	Good
+102	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."PickOrder"[1]	Mod2/PickOrder/1	1	0	Int16	2:55:46.656 PM	2:55:46.656 PM	Good
+103	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."PickOrder"[2]	Mod2/PickOrder/2	2	0	Int16	2:55:46.656 PM	2:55:46.656 PM	Good
+104	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."DropPos"."RotZ"	L1/DropPos/RotZ	RotZ	0	Int16	2:55:46.656 PM	2:55:46.656 PM	Good
+105	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."DropPos"."X"	L1/DropPos/X	X	0	Int16	2:55:46.657 PM	2:55:46.657 PM	Good
+106	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."DropPos"."Y"	L1/DropPos/Y	Y	0	Int16	2:55:46.657 PM	2:55:46.657 PM	Good
+107	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L1"."DropPos"."Z"	L1/DropPos/Z	Z	0	Int16	2:55:46.657 PM	2:55:46.657 PM	Good
+108	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."DropPos"."RotZ"	L2/DropPos/RotZ	RotZ	0	Int16	2:55:46.657 PM	2:55:46.657 PM	Good
+109	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."DropPos"."X"	L2/DropPos/X	X	0	Int16	2:55:46.657 PM	2:55:46.657 PM	Good
+110	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."DropPos"."Y"	L2/DropPos/Y	Y	0	Int16	2:55:46.660 PM	2:55:46.660 PM	Good
+111	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L2"."DropPos"."Z"	L2/DropPos/Z	Z	0	Int16	2:55:46.661 PM	2:55:46.661 PM	Good
+112	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."DropPos"."RotZ"	L3/DropPos/RotZ	RotZ	0	Int16	2:55:46.662 PM	2:55:46.662 PM	Good
+113	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."DropPos"."X"	L3/DropPos/X	X	0	Int16	2:55:46.664 PM	2:55:46.664 PM	Good
+114	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."DropPos"."Y"	L3/DropPos/Y	Y	0	Int16	2:55:46.664 PM	2:55:46.664 PM	Good
+115	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod1"."L3"."DropPos"."Z"	L3/DropPos/Z	Z	0	Int16	2:55:46.666 PM	2:55:46.666 PM	Good
+116	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."DropPos"."RotZ"	L1/DropPos/RotZ	RotZ	0	Int16	2:55:46.669 PM	2:55:46.669 PM	Good
+117	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."DropPos"."X"	L1/DropPos/X	X	0	Int16	2:55:46.670 PM	2:55:46.670 PM	Good
+118	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."DropPos"."Y"	L1/DropPos/Y	Y	0	Int16	2:55:46.670 PM	2:55:46.670 PM	Good
+119	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L1"."DropPos"."Z"	L1/DropPos/Z	Z	0	Int16	2:55:46.670 PM	2:55:46.670 PM	Good
+120	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."DropPos"."RotZ"	L2/DropPos/RotZ	RotZ	0	Int16	2:55:46.670 PM	2:55:46.670 PM	Good
+121	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."DropPos"."X"	L2/DropPos/X	X	0	Int16	2:55:46.671 PM	2:55:46.671 PM	Good
+122	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."DropPos"."Y"	L2/DropPos/Y	Y	0	Int16	2:55:46.671 PM	2:55:46.671 PM	Good
+123	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L2"."DropPos"."Z"	L2/DropPos/Z	Z	0	Int16	2:55:46.671 PM	2:55:46.671 PM	Good
+124	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."DropPos"."RotZ"	L3/DropPos/RotZ	RotZ	0	Int16	2:55:46.671 PM	2:55:46.671 PM	Good
+125	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."DropPos"."X"	L3/DropPos/X	X	0	Int16	2:55:46.672 PM	2:55:46.672 PM	Good
+126	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."DropPos"."Y"	L3/DropPos/Y	Y	0	Int16	2:55:46.672 PM	2:55:46.672 PM	Good
+127	PLC@192.168.1.1	ns=3;s="HMI_IN"."Recipe_Sel"."RCP_Data"."Mod2"."L3"."DropPos"."Z"	L3/DropPos/Z	Z	0	Int16	2:55:46.672 PM	2:55:46.672 PM	Good

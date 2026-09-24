@@ -23,6 +23,7 @@ examples/history.db
 /.pydevproject
 /.settings/
 /venv/
+/.venv/
 .eggs*
 .vscode
 .coverage
